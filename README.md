@@ -1,5 +1,4 @@
-# 🐱 Siamerse 
-
+![cover](https://github.com/DylanGonzaloFerreyra/Siamerse/blob/main/src/images/SiamerseCover.png)
 ## 🇺🇸 English
 
 > **Learn languages by immersing yourself in your daily routine.** Stop "studying" and start "living" the language by consuming real news, competing with AI, and saving vocabulary in context.
@@ -56,7 +55,7 @@ As an independent application (not yet available on the Play Store), installatio
 * [My GitHub](https://github.com/DylanGonzaloFerreyra)
 * Contact: dylanferreyra006@gmail.com
 
-
+![cover](https://github.com/DylanGonzaloFerreyra/Siamerse/blob/main/src/images/SiamerseCover.png)
 ## 🇪🇸 Spanish
 
 > **Aprende idiomas sumergiéndote en tu rutina diaria.** Deja de "estudiar" y empieza a "vivir" el idioma consumiendo noticias reales, compitiendo con la IA y guardando vocabulario en contexto.
